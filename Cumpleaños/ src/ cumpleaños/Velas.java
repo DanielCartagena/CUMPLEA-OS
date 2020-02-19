@@ -25,7 +25,7 @@ public class Velas {
                 Vmayor=TamVela[i];
             }
         }
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < anios; i++) {
             if (TamVela[i]==Vmayor) {
                 ct++;
             }
